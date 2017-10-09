@@ -1,0 +1,10 @@
+//TODO:
+- switch blocks storage to vector( or 
+another STL container)
+- add collision detection
+	-adjust physics
+- add music (done)
+	- add sound FX
+- fix player movement(smooth)
+- implement pause/resume
+- add game over
